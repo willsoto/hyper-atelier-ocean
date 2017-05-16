@@ -1,0 +1,21 @@
+{
+  "name": "hyper-atelier-ocean",
+  "version": "0.1.0",
+  "description": "Hyper port of Atelier Ocean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "hyper.app",
+    "atelier-ocean"
+  ],
+  "author": "Will Soto <will.soto9+github@gmail.com> (https://github.com/willsoto)",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "standard-version": "^4.0.0"
+  }
+}
