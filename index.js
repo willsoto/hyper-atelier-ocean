@@ -13,14 +13,14 @@ exports.decorateConfig = config => {
       magenta: '#f9674f',
       cyan: '#8461c7',
       white: '#dfe1e9',
-      lightBlack: '#5c677f',
-      lightRed: '#da5699',
-      lightGreen: '#151c24',
-      lightYellow: '#313847',
-      lightBlue: '#5d677e',
-      lightMagenta: '#8a8585',
-      lightCyan: '#5d677e',
-      lightWhite: '#f4ecec'
+      lightBlack: '#10141b',
+      lightRed: '#df3f44',
+      lightGreen: '#65cdce',
+      lightYellow: '#e7b24e',
+      lightBlue: '#4f85b8',
+      lightMagenta: '#f9674f',
+      lightCyan: '#8461c7',
+      lightWhite: '#dfe1e9'
     }
   });
 };
